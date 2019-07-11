@@ -4,5 +4,5 @@ Sample react native app with react-redux, redux, redux-saga, redux-thunk..., to 
 - Install react native environment following https://facebook.github.io/react-native/docs/getting-started.html
 - Clone source code
 - open terminal
-- cd <project folder>
+- cd project-folder
 - react-native run-android or react-native run-ios
